@@ -1,0 +1,9 @@
+# build outputs
+bin_*
+*.o
+axum/target/
+# run logs / scratch
+bench.log
+*.log
+__pycache__/
+.venv/
